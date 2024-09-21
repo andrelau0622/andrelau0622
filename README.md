@@ -10,6 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=andrelau0622&show_icons=true&theme=transparent)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=andrelau0622&theme=dracula)
-
 ### My Skill Set
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
