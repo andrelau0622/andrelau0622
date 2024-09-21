@@ -11,3 +11,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelau0622&layout=compact&theme=tokyonight)
 ### Summary
 ![](https://github-readme-stats.vercel.app/api?username=andrelau0622&show_icons=true&theme=transparent)
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={andrelau0622}&theme=github-compact&hide_border=true&area=true" />
