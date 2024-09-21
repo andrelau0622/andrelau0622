@@ -12,4 +12,4 @@
 ### Summary
 ![](https://github-readme-stats.vercel.app/api?username=andrelau0622&show_icons=true&theme=transparent)
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={andrelau0622}&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={不能坐的SOFA}&theme=github-compact&hide_border=true&area=true" />
