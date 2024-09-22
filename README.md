@@ -11,4 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelau0622&layout=compact&theme=dark)
 ### Summary
 ![
-](https://github-readme-stats.vercel.app/api?username=andrelau0622&show_icons=true&theme=transparent)
+](https://github-readme-stats.vercel.app/api?username=andrelau0622&show_icons=true&theme=dark)
