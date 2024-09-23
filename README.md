@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=407BD0&background=78C2E000&center=true&vCenter=true&width=435&lines=%E6%B9%98%E9%9B%85%E4%B8%B4%E5%BA%8A%F0%9F%90%AE%F0%9F%90%B4%E9%A2%84%E5%A4%87%E5%BD%B9%F0%9F%A7%91%E2%80%8D%E2%9A%95%EF%B8%8F;%E5%8D%8A%E5%90%8A%E5%AD%90%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;easyDSM%E6%88%90%E5%91%98%F0%9F%98%8E)](https://git.io/typing-svg)
 ### Introduction
 - 🧑‍⚕️ 中南大学湘雅医学院21级临床医学五年制在读
 - 👀 桐梓坡卫校卷心菜/半吊子码农/全栈工程师预备役
