@@ -14,5 +14,3 @@
 ) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andrelau0622)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrelau0622)](https://github.com/ryo-ma/github-profile-trophy)
